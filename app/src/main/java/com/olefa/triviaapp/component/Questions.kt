@@ -200,7 +200,6 @@ fun QuestionDisplay(
                             modifier = Modifier.padding(4.dp),
                             color = AppColors.mLightGreen,
                             fontSize = 17.sp)
-
                     })
 
             }
